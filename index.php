@@ -96,7 +96,7 @@
 					<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
 						<h1> Hi! I'm Jocelyn</h1>
 						<h3>
-							<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer. | Hackathon Ethusiast. | UCSD Student.</span>
+							<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer. | Hackathon Enthusiast. | UCSD Student.</span>
 						</h3>
 					</div>
 
@@ -117,7 +117,7 @@
 			<div class="row">
 				<div class="col-md-12">
 
-					<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
+					<div class="col-md-12 headline wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
 						<h2>Jocelyn Tran</h2>
 						<p>Software Developer, Hackathon Enthusiast, Learner, UCSD Student.</p>
 					</div>
@@ -143,14 +143,14 @@
 								<div class="skill-rate-on"></div>
 								<div class="skill-rate-on"></div>
 								<div class="skill-rate-on"></div>
-								<div class="skill-rate-on"></div>
+								<div class="skill-rate-off"></div>
 							</div>	
 						</div>
 					</div>
 
 					<div class="col-md-6 col-sm-12 wow bounceInRight" style="visibility: hidden; animation-name: none;">
 						<h3>Profesional Profile</h3>
-						<p>Hi! I'm sophomore undergraduate student studying Computer Engineering at University of California, San Diego.</p>
+						<p>Hi! I'm sophomore undergraduate student studying Computer Engineering at University of California, San Diego. Growing up in the Silicon Valley, I’ve always had a passion for technology and innovation. I love to take things apart to see how they work and put them back together.</p>
 					</div>
 				</div>
 			</div>
