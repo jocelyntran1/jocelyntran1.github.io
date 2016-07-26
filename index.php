@@ -117,7 +117,7 @@
 					</div>
 
 					<div class="col-md-3 col-sm-6 hidden-xs wow bounceInLeft" style="visibility: hidden; animation-name: none;">
-						<img class="avatar" src="./index_files/profilepic.jpg" alt="">
+						<img class="avatar" src="./js/profilepic.jpg" alt="">
 					</div>
 
 					<div class="col-md-3 col-sm-6 wow bounceInUp" style="visibility: hidden; animation-name: none;">
@@ -150,5 +150,21 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- Javascript files -->
+	<script src="./js/jquery-1.11.0.min.js"></script>
+	<script src="./js/bootstrap.min.js"></script>
+	<script src="./js/jquery.backstretch.min.js"></script>
+	<script src="./js/owl.carousel.min.js"></script>
+	<script src="./js/jquery.magnific-popup.min.js"></script>
+	<script src="./js/jquery.simple-text-rotator.min.js"></script>
+	<script src="./js/jquery.waypoints.js"></script>
+	<script src="./js/jquery.countTo.js"></script>
+	<script src="./js/wow.min.js"></script>
+	<script src="./js/modernizr.custom.js"></script>
+	<script src="./js/grid.js"></script>
+	<script src="./js/smoothscroll.js"></script>
+	<script src="./js/custom.js"></script>
+	
 </body>
 </html>
