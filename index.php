@@ -96,12 +96,12 @@
 					<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
 						<h1> Hi! I'm Jocelyn</h1>
 						<h3>
-							<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer</span>
+							<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer. | Hackathon Ethusiast. | UCSD Student.</span>
 						</h3>
 					</div>
 
 					<!-- UPDATE THIS -->
-					<a href="/#profile">
+					<a href="#profile"> 
 						<div class="mouse-icon">
 							<div class="wheel"></div>
 						</div>
