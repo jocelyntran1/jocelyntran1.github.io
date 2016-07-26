@@ -25,13 +25,13 @@
 
 	<!-- Styles -->
 	<link href="./css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="./css/owl.theme.css" rel="stylesheet" media="screen">
-	<link href="./css/owl.carousel.css" rel="stylesheet" media="screen">
-	<link href="./css/animate.css" rel="stylesheet" media="screen">
+	<link href="./css/owl.theme.css" rel="stylesheet">
+	<link href="./css/owl.carousel.css" rel="stylesheet">
+	<link href="./css/animate.css" rel="stylesheet">
 	<link href="./css/font-awesome.min.css" rel="stylesheet" media="screen">
-	<link href="./css/magnific-popupcss" rel="stylesheet" media="screen">
-	<link href="./css/component.css" rel="stylesheet" media="screen">
-	<link href="./css/simpletextrotator.css" rel="stylesheet" media="screen">
+	<link href="./css/magnific-popupcss" rel="stylesheet">
+	<link href="./css/component.css" rel="stylesheet">
+	<link href="./css/simpletextrotator.css" rel="stylesheet">
 	<link href="./css/style.css" rel="stylesheet" media="screen">
 
 	<!-- Favicon - On the left of the browser-tab-text -->
