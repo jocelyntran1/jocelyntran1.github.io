@@ -17,6 +17,12 @@
 	<!-- Viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<!-- Fonts -->
+	<link href="./fonts/css" rel="stylesheet" type="text/css">
+	<link href="./fonts/css(1)" rel="stylesheet" type="text/css">
+	<link href="./fonts/css(2)" rel="stylesheet" type="text/css">
+	<link href="./fonts/css(3)" rel="stylesheet" type="text/css">
+
 	<!-- Styles -->
 	<link href="./css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<link href="./css/owl.theme.css" rel="stylesheet" media="screen">
@@ -165,6 +171,6 @@
 	<script src="./js/grid.js"></script>
 	<script src="./js/smoothscroll.js"></script>
 	<script src="./js/custom.js"></script>
-	
+
 </body>
 </html>
