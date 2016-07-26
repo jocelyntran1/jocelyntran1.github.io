@@ -123,7 +123,7 @@
 					</div>
 
 					<div class="col-md-3 col-sm-6 hidden-xs wow bounceInLeft" style="visibility: hidden; animation-name: none;">
-						<img class="avatar" src="./js/profilepic.jpg" alt="">
+						<img class="avatar" src="./img/profilepic.jpg" alt="">
 					</div>
 
 					<div class="col-md-3 col-sm-6 wow bounceInUp" style="visibility: hidden; animation-name: none;">
