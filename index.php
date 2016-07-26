@@ -71,7 +71,6 @@
 					<!-- li is order list or just list -->
 					<li class="active"><a href="/#intro">Home</a></li>
 					<li><a href="/#profile">Profile</a></li>
-					<li><a href="/#services">Services</a></li>
 					<li><a href="/#resume">Resume</a></li>
 					<li><a href="/#portfolio">Portfolio</a></li>
 					<li><a href="/#connect">Connect</a></li>
