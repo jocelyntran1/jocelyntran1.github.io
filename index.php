@@ -3,7 +3,7 @@
 <!-- Beginning HTML Document -->
 <html lang="en" class="js csstransitions">
 
-	<head>
+<head>
 	<meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
 
 	<!-- Title -->
@@ -11,7 +11,7 @@
 
 	<!-- Description and more info about ebsite -->
 	<meta name="description" content="A portfolio website for Jocelyn">
-	<meta name="keywords" content="Jocelyn, Developer, Personal Website">
+	<meta name="keywords" content="Jocelyn, Developer, Personal Website, hire">
 	<meta name="Author" content="Jocelyn Tran">
 
 	<!-- Viewport -->
@@ -26,28 +26,29 @@
 	<link href="./css/magnific-popupcss" rel="stylesheet" media="screen">
 	<link href="./css/component.css" rel="stylesheet" media="screen">
 	<link href="./css/simpletextrotator.css" rel="stylesheet" media="screen">
+	<link href="./css/style.css" rel="stylesheet" media="screen">
 
-	<!-- FAvicon - On the left of the browser-tab-text -->
+	<!-- Favicon - On the left of the browser-tab-text -->
 	<link rel="shortcut icon" href="./img/favicon.png">
 
-	</head>
+</head>
 
-	<body>
-		<div class="wrapper">
+<body>
+	<div class="wrapper">
 
-			<!-- Preloader - shows that website is loading -->
-			<div id="preloader" style="display: none;">
-				<div id="status" style="display: none;">
-					<div class="status-mes">
-						<h4>Jocelyn Tran</h4>
-					</div>
+		<!-- Preloader - shows that website is loading -->
+		<div id="preloader" style="display: none;">
+			<div id="status" style="display: none;">
+				<div class="status-mes">
+					<h4>Jocelyn Tran</h4>
 				</div>
 			</div>
 		</div>
+	</div>
 
-		<!-- Navigation Bar - for smaller screens tabs are changed -->
-		<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-			<div class="container">
+	<!-- Navigation Bar - for smaller screens tabs are changed -->
+	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+		<div class="container">
 
 			<!-- Brand Name -->
 			<div class="navbar-header">
@@ -58,7 +59,7 @@
 					<span class="icon-bar"></span>
 				</button>
 
-				<a class="navbar-brand" href="jocelyntran.me">Jocelyn Tran</a>
+				<a class="navbar-brand" href="https://serene-sands.herokuapp.com/">Jocelyn Tran</a>
 			</div>
 
 			<!-- Navbar Links -->
@@ -75,19 +76,19 @@
 						<a href="#profile">Profile</a>
 					</li>
 					<li class="">
-						<a href="#ser">Services</a>
+						<a href="#services">Services</a>
 					</li>
 					<li class="">
-						<a href="#res">Resume</a>
+						<a href="#resume">Resume</a>
 					</li>
 					<li class="">
-						<a href="#res">Portfolio</a>
+						<a href="#portfolio">Portfolio</a>
 					</li>
 					<li class="">
-						<a href="#res">Connect</a>
+						<a href="#connect">Connect</a>
 					</li>
 					<li class="">
-						<a href="#res">Contact</a>
+						<a href="#contact">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -101,35 +102,69 @@
 			<div class="row">
 				<div class="col-md-12">
 
-				<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
-					<h1> Hi! I'm Jocelyn</h1>
-					<h3>
-						<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer</span>
-					</h3>
-				</div>
-
-				<!-- UPDATE THIS -->
-				<a href="mywbsite.com/#profile">
-					<div class="mouse-icon">
-						<div class="wheel"></div>
+					<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
+						<h1> Hi! I'm Jocelyn</h1>
+						<h3>
+							<span class="rotate" style="text-shadow: black 0px 0px 0px; opacity 1;">Software Developer</span>
+						</h3>
 					</div>
-				</a>
+
+					<!-- UPDATE THIS -->
+					<a href="/#profile">
+						<div class="mouse-icon">
+							<div class="wheel"></div>
+						</div>
+					</a>
+				</div>
 			</div>
 		</div>
-	</div>
 	</section>
 
-	<!-- Section 2 -->
+	<!-- Section: Portfolio -->
 	<section class="section" id="intro">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
 
-			<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
+					<div class="hello wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
+						<h2>Jocelyn Tran</h2>
+						<p>Software Developer, Hackathon Enthusiast, Learner, UCSD Student.</p>
+					</div>
 
+					<div class="col-md-3 col-sm-6 hidden-xs wow bounceInLeft" style="visibility: hidden; animation-name: none;">
+						<img class="avatar" src="./index_files/profilepic.jpg" alt="">
+					</div>
 
+					<div class="col-md-3 col-sm-6 wow bounceInUp" style="visibility: hidden; animation-name: none;">
+						<div class="profile-widget">
+							<h3>Skillset</h3>
 
+							<h5>Java</h5>
+							<div class="skill-bar">
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+							</div>	
 
+							<h5>C</h5>
+							<div class="skill-bar">
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-on"></div>
+							</div>	
+						</div>
+					</div>
 
-
+					<div class="col-md-6 col-sm-12 wow bounceInRight" style="visibility: hidden; animation-name: none;">
+						<h3>Profesional Profile</h3>
+						<p>Hi! I'm sophomore undergraduate student studying Computer Engineering at University of California, San Diego.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</section>
+</body>
 </html>
