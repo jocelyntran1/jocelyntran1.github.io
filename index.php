@@ -69,27 +69,13 @@
 				<ul class="nav navbar-nav navbar-right">
 
 					<!-- li is order list or just list -->
-					<li class="active">
-						<a href="#home">Home</a>
-					</li>
-					<li class="">
-						<a href="#profile">Profile</a>
-					</li>
-					<li class="">
-						<a href="#services">Services</a>
-					</li>
-					<li class="">
-						<a href="#resume">Resume</a>
-					</li>
-					<li class="">
-						<a href="#portfolio">Portfolio</a>
-					</li>
-					<li class="">
-						<a href="#connect">Connect</a>
-					</li>
-					<li class="">
-						<a href="#contact">Contact</a>
-					</li>
+					<li class="active"><a href="/#intro">Home</a></li>
+					<li><a href="/#profile">Profile</a></li>
+					<li><a href="/#services">Services</a></li>
+					<li><a href="/#resume">Resume</a></li>
+					<li><a href="/#portfolio">Portfolio</a></li>
+					<li><a href="/#connect">Connect</a></li>
+					<li><a href="/#contact">Contact</a></li>
 				</ul>
 			</div>
 		</div>
@@ -121,7 +107,7 @@
 	</section>
 
 	<!-- Section: Portfolio -->
-	<section class="section" id="intro">
+	<section class="section" id="profile">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -163,8 +149,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
-	</div>
-</section>
+		</div>
+	</section>
 </body>
 </html>
