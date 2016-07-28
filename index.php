@@ -174,8 +174,14 @@
 					<p>I love to code, hack, teach, and more. Connect with me via the links below.</p>
 				</div>
 
+				<div class="col-md-2 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
+					<a href="http://github.com/jocelyntran1" target="_blank" class="btn btn-default btn-custom-2">Github</a>
+				</div>
+				<div class="col-md-2 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
+				<a href="http://linkedin.com/tranjocelyn" target="_blank" class="btn btn-default btn-custom-2">LinkedIn</a>
+				</div>
 				<div class="col-md-2 col-md-offset-1 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
-				<a href="http://facebook.com/jocelyn.tran.12" target="_blank" class="btn btn-default btn-custom-2">Facebook</a>
+					<a href="http://facebook.com/jocelyn.tran.12" target="_blank" class="btn btn-default btn-custom-2">Facebook</a>
 				</div>
 
 			</div>
