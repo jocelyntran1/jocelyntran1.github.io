@@ -119,7 +119,7 @@
 
 					<div class="col-md-12 headline wow bounceInDown animated" style="visiblity: visible; animation-name: bounceInDown;">
 						<h2>Jocelyn Tran</h2>
-						<p>Software Developer, Hackathon Enthusiast, Learner, UCSD Student.</p>
+						<p>Software Developer, Hackathon Enthusiast, Avid Learner, UCSD Student.</p>
 					</div>
 
 					<div class="col-md-3 col-sm-6 hidden-xs wow bounceInLeft" style="visibility: hidden; animation-name: none;">
@@ -162,6 +162,22 @@
 						<p>Hi! I'm a sophomore undergraduate student studying Computer Engineering at University of California, San Diego. Growing up in the Silicon Valley, I’ve always had a passion for technology and innovation. I love to take things apart to see how they work and put them back together.</p>
 					</div>
 				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="connect" class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 headline wow bounceInDown" style="visibility: hidden; animation-name: none;">
+					<h2>Connect</h2>
+					<p>I love to code, hack, teach, and more. Connect with me via the links below.</p>
+				</div>
+
+				<div class="col-md-2 col-md-offset-1 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
+				<a href="http://facebook.com/jocelyn.tran.12" target="_blank" class="btn btn-default btn-custom-2">Facebook</a>
+				</div>
+
 			</div>
 		</div>
 	</section>
