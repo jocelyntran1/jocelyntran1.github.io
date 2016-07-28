@@ -145,12 +145,21 @@
 								<div class="skill-rate-on"></div>
 								<div class="skill-rate-off"></div>
 							</div>	
+
+							<h5>Android</h5>
+							<div class="skill-bar">
+								<div class="skill-rate-on"></div>
+								<div class="skill-rate-off"></div>
+								<div class="skill-rate-off"></div>
+								<div class="skill-rate-off"></div>
+							</div>	
+
 						</div>
 					</div>
 
 					<div class="col-md-6 col-sm-12 wow bounceInRight" style="visibility: hidden; animation-name: none;">
-						<h3>Profesional Profile</h3>
-						<p>Hi! I'm sophomore undergraduate student studying Computer Engineering at University of California, San Diego. Growing up in the Silicon Valley, I’ve always had a passion for technology and innovation. I love to take things apart to see how they work and put them back together.</p>
+						<h3>Professional Profile</h3>
+						<p>Hi! I'm a sophomore undergraduate student studying Computer Engineering at University of California, San Diego. Growing up in the Silicon Valley, I’ve always had a passion for technology and innovation. I love to take things apart to see how they work and put them back together.</p>
 					</div>
 				</div>
 			</div>
