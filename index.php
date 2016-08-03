@@ -53,7 +53,7 @@
 	</div>
 
 	<!-- Navigation Bar - for smaller screens tabs are changed -->
-	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">hello 
 		<div class="container">
 
 			<!-- Brand Name -->
@@ -65,7 +65,7 @@
 					<span class="icon-bar"></span>
 				</button>
 
-				<a class="navbar-brand" href="https://serene-sands.herokuapp.com/">Jocelyn Tran</a>
+				<a class="navbar-brand" href="https://serene-sands.herokuhello app.com/">Jocelyn Tran</a>
 			</div>
 
 			<!-- Navbar Links -->
@@ -166,6 +166,54 @@
 		</div>
 	</section>
 
+	<!-- Section Start: Resume -->
+	<section id="resume" class="section">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-12 headline wow bounceInDown" style="visibility: hidden; animation-name: none;">
+					<h2>Resume</h2>
+					<p>A brief overview of my education and experience.</p>
+				</div>
+
+			</div>
+
+			<div class="row resume-items">
+
+				<!-- Education -->
+				<div class="col-md-3 wow bounceInLeft" style="visibility: hidden; animation-name: none;">
+					<h3>Education</h3>
+				</div>
+
+				<!-- University -->
+				<div class="col-md-6 col-sm-8 resume-item wow bounceInUp" style="visibility: hidden; animation-name: none;">
+					<h4>Computer Engineering</h4>
+					<p>Pursuing a Bachelor of Science degree at Jacobs School of Engineering in UCSD. Classes taken: Engineering Computation in C, Data Structures and OO Design, Computer Organization and Systems Programming.</p>
+					<p>GPA: 3.71</p>
+					<hr class="hidden-xs">
+				</div>
+				<div class="col-md-3 col-sm-4 resume-place wow bounceInRight" style="visibility: hidden; animation-name: none;">
+					<h4><i class="fa fa-suitcase"></i>University of California, San Diego</h4>
+					<i class="fa fa-calendar"></i> Fall 2015 - Present
+					<hr class="visible-xs">
+				</div>
+
+				<!-- High School -->
+				<div class="col-md-6 col-md-offset-3 col-sm-8 resume-item wow bounceInUp" style="visibility: hidden; animation-name: none;">
+					<h4>High School Education</h4>
+					<p>Concurrently studied at UC Berkeley while at Washington High School. Classes taken: Multivariable Calculus with Linear Algebra.</p>
+					<hr class="hidden-xs">
+				</div>
+				<div class="col-md-3 col-sm-4 resume-place wow bounceInRight" style="visibility: hidden; animation-name: none;">
+					<h4><i class="fa fa-suitcase"></i>Fremont High School</h4>
+					<i class="fa fa-calendar"></i> Fall 2011 - Spring 2015
+					<hr class="visible-xs">
+				</div>
+			</div>
+		</div>
+	</section>
+
+
 	<section id="connect" class="section">
 		<div class="container">
 			<div class="row">
@@ -178,7 +226,7 @@
 					<a href="http://github.com/jocelyntran1" target="_blank" class="btn btn-default btn-custom-2">Github</a>
 				</div>
 				<div class="col-md-2 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
-				<a href="http://linkedin.com/in/tranjocelyn" target="_blank" class="btn btn-default btn-custom-2">LinkedIn</a>
+					<a href="http://linkedin.com/in/tranjocelyn" target="_blank" class="btn btn-default btn-custom-2">LinkedIn</a>
 				</div>
 				<div class="col-md-2 wow bounceInUp connect-link" style="visibility: hidden; animation-name: none;">
 					<a href="http://facebook.com/jocelyn.tran.12" target="_blank" class="btn btn-default btn-custom-2">Facebook</a>
