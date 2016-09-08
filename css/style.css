@@ -157,6 +157,7 @@ a,
 	font-size: 14px;
 	padding: 17px 27px;
 	border: 0;
+	color: gray;
 }
 
 .btn:hover, .btn:focus, .btn:active, .btn.active {
