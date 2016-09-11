@@ -852,12 +852,12 @@ h3 > .fa {
    margin: 5px 0 0 0;
 }
 .view p {
-   font-family: 'Montserrat';
+   font-family: Helvetica;
    font-size: 14px;
    font-weight: 100;
    position: relative;
    color: #fff;
-   padding: 10px 20px 10px 0px;
+   padding: 10px 25px 10px 5px;
    text-align: center;
 }
 .view a.info {
@@ -959,11 +959,11 @@ h3 > .fa {
    -o-transform: translate(0px,0px);
    -ms-transform: translate(0px,0px);
    transform: translate(0px,0px);
-   -webkit-transition-delay: 0.3s;
-   -moz-transition-delay: 0.3s;
-   -o-transition-delay: 0.3s;
-   -ms-transition-delay: 0.3s;
-   transition-delay: 0.3s;
+   -webkit-transition-delay: 0.1s;
+   -moz-transition-delay: 0.1s;
+   -o-transition-delay: 0.1s;
+   -ms-transition-delay: 0.1s;
+   transition-delay: 0.1s;
 }
 .view-second:hover p {
    -webkit-transform: translate(0px,0px);
@@ -971,11 +971,11 @@ h3 > .fa {
    -o-transform: translate(0px,0px);
    -ms-transform: translate(0px,0px);
    transform: translate(0px,0px);
-   -webkit-transition-delay: 0.4s;
-   -moz-transition-delay: 0.4s;
-   -o-transition-delay: 0.4s;
-   -ms-transition-delay: 0.4s;
-   transition-delay: 0.4s;
+   -webkit-transition-delay: 0.1s;
+   -moz-transition-delay: 0.2s;
+   -o-transition-delay: 0.1s;
+   -ms-transition-delay: 0.1s;
+   transition-delay: 0.1s;
 }
 .view-second:hover a.info {
    -webkit-transform: translate(0px,0px);
@@ -983,10 +983,10 @@ h3 > .fa {
    -o-transform: translate(0px,0px);
    -ms-transform: translate(0px,0px);
    transform: translate(0px,0px);
-   -webkit-transition-delay: 0.5s;
-   -moz-transition-delay: 0.5s;
-   -o-transition-delay: 0.5s;
-   -ms-transition-delay: 0.5s;
-   transition-delay: 0.5s;
+   -webkit-transition-delay: 0.1s;
+   -moz-transition-delay: 0.1s;
+   -o-transition-delay: 0.1s;
+   -ms-transition-delay: 0.1s;
+   transition-delay: 0.1s;
 }
 				
