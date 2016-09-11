@@ -852,9 +852,9 @@ h3 > .fa {
    margin: 5px 0 0 0;
 }
 .view p {
-   font-family: Georgia, serif;
-   font-style: italic;
+   font-family: 'Montserrat';
    font-size: 14px;
+   font-weight: 100;
    position: relative;
    color: #fff;
    padding: 10px 20px 10px 0px;
