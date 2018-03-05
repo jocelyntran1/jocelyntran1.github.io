@@ -16,7 +16,7 @@ img {
 }
 
 a {
-	color: #7F00FF;
+	color: #abafde;
 }
 
 a:hover {
@@ -47,7 +47,7 @@ h1 {
 h2 {
 	font-size: 50px;
 	font-weight: 500;
-	color: #9C27B0;
+	color: #8dade6;
 	font-family: 'Lobster', cursive;
 }
 
@@ -55,7 +55,7 @@ h3 {
 	font-size: 22px;
 	text-transform: uppercase;
 	margin: 5px 0 15px;
-	color: #9C27B0;
+	color: #abafde;
 }
 
 h4 {
@@ -207,22 +207,22 @@ a,
 
 .btn-custom-1, .btn-custom-2 {
 	background: transparent;
-	border: 2px solid #7F00FF;
+	border: 2px solid #8dade6;
 	padding: 15px 25px;
 }
 
 .btn-custom-2 {
-	border: 3px solid #7F00FF;
+	border: 3px solid #8dade6;
 }
 
 .btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
-	background: #7F00FF;
-	border: 2px solid #7F00FF;
+	background: #8dade6;
+	border: 2px solid #8dade6;
 	color: #FFF;
 }
 
 .btn-custom-2:hover, .btn-custom-2:focus, .btn-custom-2:active, .btn-custom-2.active {
-	background: #7F00FF;
+	background: #8dade6;
 	border: 3px solid #222;
 	color: #FFF;
 }
@@ -326,7 +326,7 @@ a,
 }
 
 .label-custom-1 {
-	background: #7F00FF;
+	background: #8dade6;
 }
 
 .label-custom-2 {
@@ -458,7 +458,7 @@ h3 > .fa {
 .navbar-custom .nav li.active {
 	background: none;
 	outline: 0;
-	color: #7F00FF;
+	color: #8dade6;
 }
 
 .navbar-custom .navbar-brand {
@@ -575,7 +575,7 @@ h3 > .fa {
 }
 
 .widget-social li a:hover {
-	background: #7F00FF;
+	background: #8dade6;
 }
 
 .stat .stat-icon {
@@ -822,7 +822,7 @@ h3 > .fa {
    height: 250px;
    margin: 10px;
    float: left;
-   border: 10px solid #E1BEE7;
+   border: 10px solid #8dade6;
    overflow: hidden;
    position: relative;
    text-align: center;
@@ -993,4 +993,3 @@ h3 > .fa {
    -ms-transition-delay: 0.1s;
    transition-delay: 0.1s;
 }
-				
